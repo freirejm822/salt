@@ -5,9 +5,9 @@ You can use the [editor on GitHub](https://github.com/freirejm822/salt/edit/mast
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 # I am a failure
 
-## You are a failure
+# You are a failure
 
-### We are all failures
+# We are all failures
 
 
 #### Markdown
@@ -17,11 +17,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# I am a failure
+# _I am a failure
 
-## You are a failure
+## _You are a failure
 
-### We are all failures
+### _We are all failures
 
 - Bulleted
 - List
